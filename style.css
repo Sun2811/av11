@@ -73,3 +73,29 @@ head {
     text-align: center;
 
 }
+input[type="text"] {
+    width: 200px;
+    padding: 5px;
+    border: 1px solid #c017d6;
+    border-radius: 5px;
+}
+input[type="button"] {
+    background-color: #5c043a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+#playerlevel_data {
+    font-family: "Friz Quadrata";
+    margin-top: 20px;
+    font-size: 30px;
+    color: #e7dfe6;
+}
+#summonerprofilepic_data {
+    margin-top: 20px;
+}
+#summonerprofilepic_picture {
+    max-width: 600px;
+}
