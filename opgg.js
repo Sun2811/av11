@@ -1,8 +1,8 @@
-var API_key="RGAPI-fbe81af0-2958-49b4-9d25-dc5b3c90c41e";
+var API_key="RGAPI-d50d23ff-a72f-4c4b-954b-278d49b4eb48";
 var player_n ="";
 var br1 = "https://br1.api.riotgames.com";
 
-//API da riot games, Ela basicamente mostra a foto de perfil e o nível do jogador que o nick for inserido. Alguns Exemplos para testar a API são: Alvola, GRS Rocha, ElderRuisu, Tatucabeludo.
+//API da riot games, Ela basicamente mostra a foto de perfil e o nível do jogador que o nick for inserido. Alguns Exemplos para testar a API são: Cj Stroud, aldair playboy, ElderRuisu, Tatucabeludo.
 function procurar_jogador(){
     player_n = document.getElementById("player_n").value;
     console.log(player_n);
