@@ -1,4 +1,4 @@
-var API_key="RGAPI-d50d23ff-a72f-4c4b-954b-278d49b4eb48";
+var API_key="RGAPI-435af037-8a00-4fc7-b748-7f3dd8b436a6";
 var player_n ="";
 var br1 = "https://br1.api.riotgames.com";
 
